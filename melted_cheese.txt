@@ -1,0 +1,8 @@
+Ingredients:
+    1. Break (2 slices per sandwich)
+    2. Silce of cheese (per sandwich, size of bread slice)i
+
+Recipe:
+    1. Put cheese on bread
+    2. Place on a plate in a microwave for 30 seconds only
+    3. Eat.
